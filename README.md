@@ -1,8 +1,6 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Tillana&display=swap');
-</style>
+@import url('https://fonts.googleapis.com/css2?family=Tillana&display=swap');
 
-<span header font-family: 'Tillana', cursive;>
+<span font-family: 'Tillana', cursive;>
 
 # HauntedForest
 
