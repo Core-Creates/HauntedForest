@@ -41,3 +41,24 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: sky and air
+    uniqueID: 4128260895
+    locked: 0
+  - name: background trees
+    uniqueID: 4017598001
+    locked: 0
+  - name: middle forward
+    uniqueID: 2160281497
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 3523681673
+    locked: 0
+  - name: house
+    uniqueID: 74376729
+    locked: 0
+  - name: on top of furniture
+    uniqueID: 1185091253
+    locked: 0
+  - name: Player
+    uniqueID: 285632747
+    locked: 0
