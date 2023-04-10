@@ -8,5 +8,5 @@
 
 # HauntedForest
 
-<span style="font-family: 'Times';"> A haunted forest game </span>
+<span style="font-family: 'Tillana', cursive;;"> A haunted forest game </span>
 
