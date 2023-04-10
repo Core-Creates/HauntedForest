@@ -5,5 +5,5 @@
 
 # HauntedForest
 
-A haunted forest game
+<span style="font-family: 'Lucida Console';">A haunted forest game</span>
 
